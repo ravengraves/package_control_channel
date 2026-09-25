@@ -484,7 +484,7 @@
 		},
 		{
 			"name": "Agentic",
-			"details": "https://github.com/alecGraves/Agentic",
+			"details": "https://github.com/ravengraves/Agentic",
 			"labels": ["ai", "llm", "chat"],
 			"releases": [
 				{
